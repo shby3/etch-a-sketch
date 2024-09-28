@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#square-container {
+    display: flex;
+    border: 2px solid black;
+}
+
+.square {
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 40px;
+}
